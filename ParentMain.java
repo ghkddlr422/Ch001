@@ -3,8 +3,7 @@ package Ch001;
 public class ParentMain {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Parent p = new Parent();
+		Parent p = new Parent(); 		//按眉积己
 		p.name = "何葛";
 		p.age = 50;
 		p.setMoney(1000000);
